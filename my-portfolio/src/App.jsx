@@ -24,7 +24,7 @@ export default function App() {
           <div className="cta">
             <a className="btn primary" href="mailto:thuyahlaing04@gmail.com">Email me</a>
             <a className="btn" href="https://github.com/HarryYin03" target="_blank" rel="noreferrer">GitHub</a>
-            <a className="btn" href="./images/Thu Ya Hlaing CV.pdf">Download CV</a>
+            <a className="btn" href="./images/Thu-Ya-Hlaing-CV.pdf">Download CV</a>
           </div>
         </div>
       </section>
